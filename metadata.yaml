@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1221
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22651#The-Unsolved-Riddle-of-Social-Justice
 gutenberg_issued: '2007-09-17'
 gutenberg_type: Text
 identifiers:
